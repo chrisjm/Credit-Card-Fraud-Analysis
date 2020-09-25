@@ -10,6 +10,8 @@ After evaluating three different classification models and tuning the best one, 
 
 The dataset was acquired from Kaggle and contained credit card transactions in September 2013 by European cardholders.
 
+[Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 The transactions occurred in two days. Within that time, there were 492 fraudulent transactions out of 284,807 total transactions. Therefore, this data has a highly imbalanced fraud class, making up only 0.173% of all transactions.
 
 The dataset contains only numeric input variables as a result of a PCA transformation due to confidentiality. There are 28 principal components/features labeled V1 through V28. Again due to privacy requirements, the feature labels are not available.
