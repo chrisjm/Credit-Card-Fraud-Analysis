@@ -1,5 +1,8 @@
 # Credit Card Fraud Analysis and Detection
 
+![AMEX business credit card](reports/figures/ryan-born-credit-card-unsplash.jpg)<br>
+Photo by [Ryan Born](https://unsplash.com/@b0rno?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/credit-card?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+
 ## Problem Statement
 
 Credit card companies receive a significantly smaller percentage of fraudulent charges each hour compared to legitimate transactions. Though a minuscule percentage of overall transactions, fraudulent charges result in many hours of work and lost revenue. How can credit card companies detect up to 90% of fraudulent transactions each month?
