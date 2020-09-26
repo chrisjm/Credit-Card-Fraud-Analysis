@@ -56,8 +56,8 @@ While neither the Logistic Regression and Random Forest Classifier require scali
 
 The data was split into 70%/30% training/testing sets and stratified on the ‘Class’ feature to ensure an equal percentage of fraud samples in each set, respectively.
 
-| Fraud Class % | Fraud Count | Non-Fraud Count |
-|---|---|---|
+|  | Fraud Class % | Fraud Count | Non-Fraud Count |
+|---|---|---|---|
 | Full Dataset | 0.173% | 492 | 284807 |
 | Training Set |  0.173% | 344 | 199364 |
 | Testing Set | 0.173% | 148 | 85443 |
